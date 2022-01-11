@@ -12,7 +12,7 @@ J'espère que cela vous plaira, sur ce, commencons.
 
 
 
-### Step 0 : npm install
+## Step 0 : npm install
 
 Pour commencer, faites :
 
@@ -26,7 +26,7 @@ Pour commencer, faites :
 
 
 
-### Step 1 : Remplissez les fichiers
+## Step 1 : Remplissez les fichiers
 
 Maintenant que toutes les dependences sont installées, vous pouvez commencer a coder.
 
@@ -34,7 +34,7 @@ Il y a plusieurs fichiers dans le dossier `src` qui ont des parties à remplir a
 
 Tips: Regarder bien les imports pour savoir ce que vous devez utiliser
 
-### Liens
+## Liens
 
 https://reactnavigation.org/docs/stack-navigator/
 
@@ -44,7 +44,7 @@ https://reactnative.dev/docs/handling-text-input
 
 https://reactnative.dev/docs/flatlist
 
-### Pour aller plus loin
+## Pour aller plus loin
 
 Si vous êtes deja un pro du react-native alors il doit vous rester pas mal de temps.
 
