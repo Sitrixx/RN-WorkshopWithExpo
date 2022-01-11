@@ -44,6 +44,10 @@ https://reactnative.dev/docs/handling-text-input
 
 https://reactnative.dev/docs/flatlist
 
+https://reactnative.dev/docs/modal
+
+https://reactnative.dev/docs/view
+
 ## Pour aller plus loin
 
 Si vous êtes deja un pro du react-native alors il doit vous rester pas mal de temps.
