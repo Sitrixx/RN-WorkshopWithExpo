@@ -32,7 +32,7 @@ Maintenant que toutes les dependences sont installées, vous pouvez commencer a 
 
 Il y a plusieurs fichiers dans le dossier `src` qui ont des parties à remplir avec les indications de ce que doit devenir le fichier en commentaires.
 
-Tips: Regarder bien les imports pour savoir ce que vous devez utiliser
+Tips: Regarder bien les imports pour savoir ce que vous devez utiliser / Utilisez style={styles.} pour styliser votre balise.
 
 ## Liens
 
