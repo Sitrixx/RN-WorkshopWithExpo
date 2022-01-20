@@ -48,6 +48,8 @@ https://reactnative.dev/docs/modal
 
 https://reactnative.dev/docs/view
 
+https://reactnative.dev/docs/style
+
 ## Pour aller plus loin
 
 Si vous êtes deja un pro du react-native alors il doit vous rester pas mal de temps.
